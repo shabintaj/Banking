@@ -1,0 +1,114 @@
+2020-05-01 12:11:17,182 - banking -INFO - URL is opened
+2020-05-01 12:11:17,478 - banking -INFO - Entered username
+2020-05-01 12:11:17,617 - banking -INFO - Entered password
+2020-05-01 12:11:20,244 - banking -INFO - Login test passed
+2020-05-01 12:11:30,603 - banking -INFO - User name is provided
+2020-05-01 12:11:30,743 - banking -INFO - Passsword is provided
+2020-05-01 12:11:37,294 - banking -INFO - providing customer details....
+2020-05-01 12:11:48,299 - banking -INFO - validation started....
+2020-05-01 12:11:48,313 - banking -INFO - test case passed....
+2020-05-01 12:12:01,227 - banking -INFO - user name provided
+2020-05-01 12:12:01,383 - banking -INFO - password provided
+2020-05-01 12:12:06,668 - banking -INFO - user name provided
+2020-05-01 12:12:06,799 - banking -INFO - password provided
+2020-05-01 12:12:12,460 - banking -INFO - user name provided
+2020-05-01 12:12:12,582 - banking -INFO - password provided
+2020-05-01 12:12:24,618 - banking -INFO - user name provided
+2020-05-01 12:12:24,734 - banking -INFO - password provided
+2020-05-01 12:12:29,783 - banking -INFO - user name provided
+2020-05-01 12:12:29,897 - banking -INFO - password provided
+2020-05-01 12:14:31,875 - banking -INFO - URL is opened
+2020-05-01 12:14:32,138 - banking -INFO - Entered username
+2020-05-01 12:14:32,286 - banking -INFO - Entered password
+2020-05-01 12:14:33,937 - banking -INFO - Login test passed
+2020-05-01 12:14:43,983 - banking -INFO - User name is provided
+2020-05-01 12:14:44,152 - banking -INFO - Passsword is provided
+2020-05-01 12:14:49,733 - banking -INFO - providing customer details....
+2020-05-01 12:15:00,912 - banking -INFO - validation started....
+2020-05-01 12:15:00,928 - banking -INFO - test case passed....
+2020-05-01 12:15:14,549 - banking -INFO - user name provided
+2020-05-01 12:15:14,817 - banking -INFO - password provided
+2020-05-01 12:15:29,723 - banking -INFO - user name provided
+2020-05-01 12:15:29,850 - banking -INFO - password provided
+2020-05-01 12:15:35,282 - banking -INFO - user name provided
+2020-05-01 12:15:35,404 - banking -INFO - password provided
+2020-05-01 12:15:41,864 - banking -INFO - user name provided
+2020-05-01 12:15:41,990 - banking -INFO - password provided
+2020-05-01 12:15:47,141 - banking -INFO - user name provided
+2020-05-01 12:15:47,257 - banking -INFO - password provided
+2020-05-01 12:44:46,340 - banking -INFO - URL is opened
+2020-05-01 12:44:46,677 - banking -INFO - Entered username
+2020-05-01 12:44:46,878 - banking -INFO - Entered password
+2020-05-01 12:44:48,661 - banking -INFO - Login test passed
+2020-05-01 12:45:01,250 - banking -INFO - User name is provided
+2020-05-01 12:45:01,451 - banking -INFO - Passsword is provided
+2020-05-01 12:45:07,049 - banking -INFO - providing customer details....
+2020-05-01 12:45:18,359 - banking -INFO - validation started....
+2020-05-01 12:45:18,390 - banking -INFO - test case passed....
+2020-05-01 12:45:33,633 - banking -INFO - user name provided
+2020-05-01 12:45:34,619 - banking -INFO - password provided
+2020-05-01 12:45:39,729 - banking -INFO - user name provided
+2020-05-01 12:45:39,925 - banking -INFO - password provided
+2020-05-01 12:45:45,371 - banking -INFO - user name provided
+2020-05-01 12:45:45,525 - banking -INFO - password provided
+2020-05-01 12:45:51,408 - banking -INFO - user name provided
+2020-05-01 12:45:51,562 - banking -INFO - password provided
+2020-05-01 12:45:57,304 - banking -INFO - user name provided
+2020-05-01 12:45:57,426 - banking -INFO - password provided
+2020-05-01 14:33:54,563 - banking -INFO - URL is opened
+2020-05-01 14:33:55,567 - banking -INFO - Entered username
+2020-05-01 14:33:55,783 - banking -INFO - Entered password
+2020-05-01 14:33:57,437 - banking -INFO - Login test passed
+2020-05-01 14:34:08,896 - banking -INFO - User name is provided
+2020-05-01 14:34:09,068 - banking -INFO - Passsword is provided
+2020-05-01 14:34:15,482 - banking -INFO - providing customer details....
+2020-05-01 14:42:05,008 - banking -INFO - URL is opened
+2020-05-01 14:42:05,315 - banking -INFO - Entered username
+2020-05-01 14:42:05,441 - banking -INFO - Entered password
+2020-05-01 14:47:30,664 - banking -INFO - User name is provided
+2020-05-01 14:47:30,879 - banking -INFO - Passsword is provided
+2020-05-01 14:47:36,966 - banking -INFO - providing customer details....
+2020-05-01 14:47:52,817 - banking -INFO - validation started....
+2020-05-01 14:47:52,842 - banking -INFO - test case passed....
+2020-05-01 14:52:33,822 - banking -INFO - URL is opened
+2020-05-01 14:52:34,254 - banking -INFO - Entered username
+2020-05-01 14:52:34,437 - banking -INFO - Entered password
+2020-05-01 14:52:38,613 - banking -INFO - Login test passed
+2020-05-01 14:52:49,134 - banking -INFO - User name is provided
+2020-05-01 14:52:49,366 - banking -INFO - Passsword is provided
+2020-05-01 14:53:20,914 - banking -INFO - providing customer details....
+2020-05-01 14:53:35,338 - banking -INFO - validation started....
+2020-05-01 14:53:35,360 - banking -INFO - test case passed....
+2020-05-01 15:05:33,029 - banking -INFO - URL is opened
+2020-05-01 15:05:33,416 - banking -INFO - Entered username
+2020-05-01 15:05:33,608 - banking -INFO - Entered password
+2020-05-01 15:05:35,568 - banking -INFO - Login test passed
+2020-05-01 15:05:48,472 - banking -INFO - User name is provided
+2020-05-01 15:05:48,615 - banking -INFO - Passsword is provided
+2020-05-01 15:05:54,714 - banking -INFO - providing customer details....
+2020-05-01 15:06:10,363 - banking -INFO - validation started....
+2020-05-01 15:06:10,389 - banking -INFO - test case passed....
+2020-05-01 15:16:39,839 - banking -INFO - URL is opened
+2020-05-01 15:16:40,288 - banking -INFO - Entered username
+2020-05-01 15:16:40,509 - banking -INFO - Entered password
+2020-05-01 15:16:42,937 - banking -INFO - Login test passed
+2020-05-01 15:16:54,753 - banking -INFO - User name is provided
+2020-05-01 15:16:54,971 - banking -INFO - Passsword is provided
+2020-05-01 15:20:33,232 - banking -INFO - URL is opened
+2020-05-01 15:20:35,275 - banking -INFO - Entered username
+2020-05-01 15:20:36,087 - banking -INFO - Entered password
+2020-05-01 15:20:39,922 - banking -INFO - Login test passed
+2020-05-01 15:21:01,761 - banking -INFO - User name is provided
+2020-05-01 15:21:02,118 - banking -INFO - Passsword is provided
+2020-05-01 15:21:12,701 - banking -INFO - providing customer details....
+2020-05-01 15:21:25,010 - banking -INFO - validation started....
+2020-05-01 15:21:25,036 - banking -INFO - test case passed....
+2020-05-01 15:26:38,344 - banking -INFO - URL is opened
+2020-05-01 15:26:45,441 - banking -INFO - Entered username
+2020-05-01 15:26:45,677 - banking -INFO - Entered password
+2020-05-01 15:26:48,276 - banking -INFO - Login test passed
+2020-05-01 15:27:05,798 - banking -INFO - User name is provided
+2020-05-01 15:27:07,362 - banking -INFO - Passsword is provided
+2020-05-01 15:27:14,845 - banking -INFO - providing customer details....
+2020-05-01 15:27:27,535 - banking -INFO - validation started....
+2020-05-01 15:27:27,768 - banking -INFO - test case passed....
